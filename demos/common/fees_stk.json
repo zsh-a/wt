@@ -1,0 +1,23 @@
+{
+    "SSE.STK":
+    {
+        "open":0.001,
+        "close":0.0012,
+        "closetoday":0.0,
+        "byvolume":false
+    },
+    "SSE.ETF":
+    {
+        "open":0.00005,
+        "close":0.00005,
+        "closetoday":0.0,
+        "byvolume":false
+    },
+    "SZSE.STK":
+    {
+        "open":0.001,
+        "close":0.0012,
+        "closetoday":0.0,
+        "byvolume":false
+    }
+}

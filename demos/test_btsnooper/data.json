@@ -1,0 +1,14 @@
+{
+    "workspace": [
+        {
+            "name": "hello",
+            "path": "../cta_stk_bt",
+            "id": "2360549a57a0043beba58bb9712ce36c"
+        },
+        {
+            "name": "test",
+            "path": "../cta_stk_bt/outputs_bt",
+            "id": "95b276ab834fb73c2939970999257331"
+        }
+    ]
+}
